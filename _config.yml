@@ -196,7 +196,7 @@ social_icons:
 # Blog rolls
 links_settings:
   icon: fa fa-link
-  title: Links
+  title: 小伙伴们
   # Available values: block | inline
   layout: block
 
@@ -206,6 +206,7 @@ links:
   alan: https://linxuyalun.github.io/
   范德陈宣言: https://declaration.vanderchen.com/
   范德陈: https://vanderchen.github.io/
+  daidai: https://yaxuandai.github.io/
   wendellsun: https://wendellsun.com/
 
 # Table of Contents in the Sidebar
